@@ -18,6 +18,12 @@ a {
   color: #000;
   text-decoration: none;
 }
+
+a:hover{
+  color: green;
+  font-weight: bolder;
+}
+
 .container {
   max-width: 1000px;
   width: 100%;
